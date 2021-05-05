@@ -1,0 +1,933 @@
+[
+   {
+      "name":"かけうどん",
+      "cost":172,
+      "foodColors": {
+         "red": 0,
+         "green": 0,
+         "yellow": 4.2
+      },
+      "nutrients" : {
+          "energy" : 339,
+          "protein" : 7.7,
+          "lipid" : 1.0,
+          "carbohydrate" : 75.3,
+          "salt" : 4.8,
+          "calcium" : 26,
+          "vegetables" : 10
+      },
+     "layout":"1110"
+   },
+   {
+      "name":"かけそば",
+      "cost":172,
+      "foodColors": {
+         "red": 0,
+         "green": 0,
+         "yellow": 3.8
+      },
+      "nutrients" : {
+          "energy" : 308,
+          "protein" : 11.0,
+          "lipid" : 1.8,
+          "carbohydrate" : 62.1,
+          "salt" : 3.7,
+          "calcium" : 79,
+          "vegetables" : 10
+      },
+     "layout":"1110"
+   },
+   {
+      "name":"きつねうどん",
+      "cost":216,
+      "foodColors": {
+         "red": 0.7,
+         "green": 0,
+         "yellow": 4.5
+      },
+      "nutrients" : {
+          "energy" : 420,
+          "protein" : 11.2,
+          "lipid" : 5.9,
+          "carbohydrate" : 81.2,
+          "salt" : 5.1,
+          "calcium" : 70,
+          "vegetables" : 10
+      },
+     "layout":"1110"
+   },
+   {
+      "name":"きつねそば",
+      "cost":216,
+      "foodColors" : {
+         "red":0.7,
+         "green":0,
+         "yellow":4.1
+      },
+      "nutrients" : {
+          "energy" : 389,
+          "protein" : 14.4,
+          "lipid" : 6.7,
+          "carbohydrate" : 68.0,
+          "salt" : 4.0,
+          "calcium" : 123,
+          "vegetables" : 10
+      },
+     "layout":"1110"
+   },
+   {
+      "name":"温玉ぶっかけうどん",
+      "cost":259,
+      "foodColors" : {
+         "red":1,
+         "green":0,
+         "yellow":4.2
+      },
+      "nutrients" : {
+          "energy" : 415,
+          "protein" : 13.8,
+          "lipid" : 6.5,
+          "carbohydrate" : 74.7,
+          "salt" : 3.4,
+          "calcium" : 53,
+          "vegetables" : 10
+      },
+     "layout":"1110"
+   },
+   {
+      "name":"温玉ぶっかけそば",
+      "cost":259,
+      "foodColors" : {
+         "red":1,
+         "green":0,
+         "yellow":3.8
+      },
+      "nutrients" : {
+          "energy" : 384,
+          "protein" : 17.1,
+          "lipid" : 7.3,
+          "carbohydrate" : 61.5,
+          "salt" : 2.3,
+          "calcium" : 106,
+          "vegetables" : 10
+      },
+     "layout":"1110"
+   },
+   {
+      "name":"塩ラーメン",
+      "cost":345,
+      "foodColors" : {
+         "red":0.8,
+         "green":0.1,
+         "yellow":4.8
+      },
+      "nutrients" : {
+          "energy" : 461,
+          "protein" : 17.0,
+          "lipid" : 18,
+          "carbohydrate" : 89.0,
+          "salt" : 6.4,
+          "calcium" : 82,
+          "vegetables" : 25
+      },
+     "layout":"1110"
+   },
+   {
+      "name":"札幌味噌ラーメン",
+      "cost":432,
+      "foodColors" : {
+         "red":0.8,
+         "green":0.3,
+         "yellow":6.6
+      },
+      "nutrients" : {
+          "energy" : 617,
+          "protein" : 21.3,
+          "lipid" : 18.7,
+          "carbohydrate" : 89.7,
+          "salt" : 6.9,
+          "calcium" : 67,
+          "vegetables" : 25
+      },
+     "layout":"1110"
+   },
+  {
+    "name":"トマトチーズラーメン",
+    "cost":388,
+    "foodColors" : {
+      "red":0.9,
+      "green":0.2,
+      "yellow":4.8
+    },
+    "nutrients" : {
+      "energy" : 471,
+      "protein" : 19.2,
+      "lipid" : 8.0,
+      "carbohydrate" : 81.1,
+      "salt" : 6.4,
+      "calcium" : 166,
+      "vegetables" : 69
+    },
+    "layout":"1110"
+  },
+  {
+    "name":"梅肉とり天あんかけうどん",
+    "cost":302,
+    "foodColors": {
+      "red": 0.5,
+      "green": 0,
+      "yellow": 5.8
+    },
+    "nutrients" : {
+      "energy" : 502,
+      "protein" : 16.5,
+      "lipid" : 7.9,
+      "carbohydrate" : 91.6,
+      "salt" : 5.8,
+      "calcium" : 31,
+      "vegetables" : 51
+    },
+    "layout":"1110"
+  },
+  {
+    "name":"梅肉とり天あんかけそば",
+    "cost":302,
+    "foodColors" : {
+      "red":0.5,
+      "green":0,
+      "yellow":5.4
+    },
+    "nutrients" : {
+      "energy" : 471,
+      "protein" : 19.7,
+      "lipid" : 8.7,
+      "carbohydrate" : 78.4,
+      "salt" : 4.7,
+      "calcium" : 84,
+      "vegetables" : 5
+    },
+    "layout":"1110"
+  },
+  {
+      "name":"あぶりサーモンねぎとろ丼",
+      "cost":486,
+      "foodColors" : {
+         "red":1.1,
+         "green":0.0,
+         "yellow":5.9
+      },
+      "nutrients" : {
+          "energy" : 561,
+          "protein" : 19.6,
+          "lipid" : 7.9,
+          "carbohydrate" : 98.1,
+          "salt" : 1.7,
+          "calcium" : 26,
+          "vegetables" : 5
+      },
+     "layout":"1110"
+   },
+   {
+      "name":"ロースカツカレー",
+      "cost":378,
+      "foodColors" : {
+         "red":1.4,
+         "green":0.2,
+         "yellow":9.3
+      },
+      "nutrients" : {
+          "energy" : 867,
+          "protein" : 20.3,
+          "lipid" : 30.5,
+          "carbohydrate" : 123.5,
+          "salt" : 3.6,
+          "calcium" : 49,
+          "vegetables" : 13
+      },
+     "layout":"1110"
+   },
+   {
+      "name":"カレーライス",
+      "cost":280,
+      "foodColors" : {
+         "red":0,
+         "green":0.2,
+         "yellow":6.8
+      },
+      "nutrients" : {
+          "energy" : 558,
+          "protein" : 9.0,
+          "lipid" : 8.1,
+          "carbohydrate" : 109.9,
+          "salt" : 3.0,
+          "calcium" : 38,
+          "vegetables" : 13
+      },
+     "layout":"1110"
+   },
+   {
+      "name":"ベジタブルカレー",
+      "cost":280,
+      "foodColors" : {
+         "red":0,
+         "green":0.3,
+         "yellow":6.4
+      },
+      "nutrients" : {
+          "energy" : 535,
+          "protein" : 8.4,
+          "lipid" : 0.0,
+          "carbohydrate" : 109.9,
+          "salt" : 1.8,
+          "calcium" : 44,
+          "vegetables" : 0.0
+      },
+     "layout":"1110"
+   },
+   {
+      "name":"ローストチキン",
+      "cost":259,
+      "foodColors" : {
+         "red":2.4,
+         "green":0.1,
+         "yellow":0
+      },
+      "nutrients" : {
+          "energy" : 200,
+          "protein" : 15.8,
+          "lipid" : 13.0,
+          "carbohydrate" : 3.4,
+          "salt" : 0.9,
+          "calcium" : 22.7,
+          "vegetables" : 40
+      },
+     "layout":"0010"
+   },
+   {
+      "name":"鶏ザンギ",
+      "cost":302,
+      "foodColors" : {
+         "red":2.1,
+         "green":0.1,
+         "yellow":2.4
+      },
+      "nutrients" : {
+          "energy" : 370,
+          "protein" : 14.5,
+          "lipid" : 22.5,
+          "carbohydrate" : 24.5,
+          "salt" : 2.8,
+          "calcium" : 31,
+          "vegetables" : 40
+      },
+     "layout":"0010"
+   },
+   {
+      "name":"ササミチーズカツ",
+      "cost":259,
+      "foodColors" : {
+         "red":1.0,
+         "green":0.1,
+         "yellow":5.7
+      },
+      "nutrients" : {
+          "energy" : 537,
+          "protein" : 14.8,
+          "lipid" : 42.0,
+          "carbohydrate" : 22.8,
+          "salt" : 1.5,
+          "calcium" : 114,
+          "vegetables" : 40
+      },
+     "layout":"0010"
+   },
+   {
+      "name":"ハンバーグおろしソース",
+      "cost":259,
+      "foodColors" : {
+         "red":1.3,
+         "green":0.3,
+         "yellow":1.8
+      },
+      "nutrients" : {
+          "energy" : 271,
+          "protein" : 15.9,
+          "lipid" : 13.4,
+          "carbohydrate" : 21.1,
+          "salt" : 3.0,
+          "calcium" : 68,
+          "vegetables" : 87
+      },
+     "layout":"0010"
+   },
+   {
+      "name":"ほっけ焼",
+      "cost":216,
+      "foodColors" : {
+         "red":1.4,
+         "green":0.0,
+         "yellow":0.0
+      },
+      "nutrients" : {
+          "energy" : 114,
+          "protein" : 13.4,
+          "lipid" : 6.1,
+          "carbohydrate" : 0.1,
+          "salt" : 1.1,
+          "calcium" : 111,
+          "vegetables" : 0
+      },
+     "layout":"0010"
+   },
+   {
+      "name":"あさりと白菜のクリーム煮",
+      "cost":216,
+      "foodColors" : {
+         "red":1.0,
+         "green":0.8,
+         "yellow":0.8
+      },
+      "nutrients" : {
+          "energy" : 211,
+          "protein" : 12.9,
+          "lipid" : 5.5,
+          "carbohydrate" : 28.0,
+          "salt" : 2.2,
+          "calcium" : 154,
+          "vegetables" : 112
+      },
+     "layout":"0010"
+   },
+   {
+      "name":"たらちゃん焼",
+      "cost":302,
+      "foodColors" : {
+         "red":0.6,
+         "green":0.6,
+         "yellow":5.6
+      },
+      "nutrients" : {
+          "energy" : 543,
+          "protein" : 17.2,
+          "lipid" : 33.4,
+          "carbohydrate" : 42.4,
+          "salt" : 3.9,
+          "calcium" : 102,
+          "vegetables" : 185
+      },
+     "layout":"0010"
+   },
+   {
+      "name":"若鶏醤油揚げ",
+      "cost":172,
+      "foodColors" : {
+         "red":0.7,
+         "green":0.1,
+         "yellow":1.5
+      },
+      "nutrients" : {
+          "energy" : 188,
+          "protein" : 12.8,
+          "lipid" : 8.3,
+          "carbohydrate" : 15.9,
+          "salt" : 1.5,
+          "calcium" : 24,
+          "vegetables" : 40
+      },
+     "layout":"0010"
+   },
+   {
+      "name":"鯖生姜煮",
+      "cost":172,
+      "foodColors" : {
+         "red":3,
+         "green":0,
+         "yellow":0.4
+      },
+      "nutrients" : {
+          "energy" : 278,
+          "protein" : 13.5,
+          "lipid" : 20.3,
+          "carbohydrate" : 8.1,
+          "salt" : 1.0,
+          "calcium" : 7,
+          "vegetables" : 0
+      },
+     "layout":"0010"
+   },
+  {
+    "name":"ローストンカツ味噌ソース",
+    "cost":259,
+    "foodColors" : {
+      "red":1.4,
+      "green":0.1,
+      "yellow":3.3
+    },
+    "nutrients" : {
+      "energy" : 388,
+      "protein" : 13.7,
+      "lipid" : 23.7,
+      "carbohydrate" : 28.8,
+      "salt" : 1.8,
+      "calcium" : 38,
+      "vegetables" : 40
+    },
+    "layout":"0010"
+  },
+   {
+      "name":"ライスLL",
+      "cost":194,
+      "foodColors" : {
+         "red":0,
+         "green":0,
+         "yellow":9.7
+      },
+      "nutrients" : {
+          "energy" : 773,
+          "protein" : 11.5,
+          "lipid" : 1.4,
+          "carbohydrate" : 170.7,
+          "salt" : 0,
+          "calcium" : 14,
+          "vegetables" : 0
+      },
+     "layout":"1000"
+   },
+   {
+      "name":"ライスL",
+      "cost":144,
+      "foodColors" : {
+         "red":0,
+         "green":0,
+         "yellow":6.9
+      },
+      "nutrients" : {
+          "energy" : 554,
+          "protein" : 8.3,
+          "lipid" : 1.0,
+          "carbohydrate" : 122.4,
+          "salt" : 0,
+          "calcium" : 10,
+          "vegetables" : 0
+      },
+     "layout":"1000"
+   },
+   {
+      "name":"ライスM",
+      "cost":113,
+      "foodColors" : {
+         "red":0,
+         "green":0,
+         "yellow":5
+      },
+      "nutrients" : {
+          "energy" : 403,
+          "protein" : 6.0,
+          "lipid" : 0.7,
+          "carbohydrate" : 89.0,
+          "salt" : 0.0,
+          "calcium" : 7,
+          "vegetables" : 0
+      },
+     "layout":"1000"
+   },
+   {
+      "name":"ライスS",
+      "cost":92,
+      "foodColors" : {
+         "red":0,
+         "green":0,
+         "yellow":3.4
+      },
+      "nutrients" : {
+          "energy" : 269,
+          "protein" : 4.0,
+          "lipid" : 0.5,
+          "carbohydrate" : 59.4,
+          "salt" : 0,
+          "calcium" : 5,
+          "vegetables" : 0
+      },
+     "layout":"1000"
+   },
+   {
+      "name":"ライスSS",
+      "cost":72,
+      "foodColors" : {
+         "red":0,
+         "green":0,
+         "yellow":2.1
+      },
+      "nutrients" : {
+          "energy" : 168,
+          "protein" : 2.5,
+          "lipid" : 0.3,
+          "carbohydrate" : 37.1,
+          "salt" : 0,
+          "calcium" : 3,
+          "vegetables" : 0
+      },
+     "layout":"1000"
+   },
+   {
+      "name":"味噌汁",
+      "cost":32,
+      "foodColors" : {
+         "red":0.3,
+         "green":0,
+         "yellow":0.4
+      },
+      "nutrients" : {
+          "energy" : 52,
+          "protein" : 2.9,
+          "lipid" : 2.5,
+          "carbohydrate" : 4.8,
+          "salt" : 1.7,
+          "calcium" : 39,
+          "vegetables" : 0
+      },
+     "layout":"0100"
+   },
+  {
+    "name":"豚汁",
+    "cost":108,
+    "foodColors" : {
+      "red":0.5,
+      "green":0.4,
+      "yellow":0.4
+    },
+    "nutrients" : {
+      "energy" : 105,
+      "protein" : 5.8,
+      "lipid" : 3.9,
+      "carbohydrate" : 11.0,
+      "salt" : 1.7,
+      "calcium" : 33,
+      "vegetables" : 56
+    },
+    "layout":"0100"
+  },
+   {
+      "name":"大学芋",
+      "cost":64,
+      "foodColors" : {
+         "red":0,
+         "green":0.6,
+         "yellow":1.4
+      },
+      "nutrients" : {
+          "energy" : 163,
+          "protein" : 0.5,
+          "lipid" : 8.1,
+          "carbohydrate" : 22.0,
+          "salt" : 0,
+          "calcium" : 17,
+          "vegetables" : 0
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"フルーツヨーグルト",
+      "cost":108,
+      "foodColors" : {
+         "red":0.5,
+         "green":0,
+         "yellow":0.8
+      },
+      "nutrients" : {
+          "energy" : 103,
+          "protein" : 2.5,
+          "lipid" : 1.9,
+          "carbohydrate" : 18.7,
+          "salt" : 0.1,
+          "calcium" : 77,
+          "vegetables" : 0
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"冷奴",
+      "cost":43,
+      "foodColors" : {
+         "red":0.7,
+         "green":0,
+         "yellow":0
+      },
+      "nutrients" : {
+          "energy" : 55,
+          "protein" : 4.7,
+          "lipid" : 2.9,
+          "carbohydrate" : 2.3,
+          "salt" : 0,
+          "calcium" : 57,
+          "vegetables" : 3
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"だし巻き",
+      "cost":64,
+      "foodColors" : {
+         "red":1,
+         "green":0,
+         "yellow":0.2
+      },
+      "nutrients" : {
+          "energy" : 96,
+          "protein" : 6.6,
+          "lipid" : 5.5,
+          "carbohydrate" : 3.9,
+          "salt" : 0.9,
+          "calcium" : 27,
+          "vegetables" : 0
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"れんこんきんぴら",
+      "cost":64,
+      "foodColors" : {
+         "red":0,
+         "green":0.3,
+         "yellow":0.5
+      },
+      "nutrients" : {
+          "energy" : 62,
+          "protein" : 1.2,
+          "lipid" : 1.4,
+          "carbohydrate" : 11.4,
+          "salt" : 1.1,
+          "calcium" : 20,
+          "vegetables" : 34
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"ブロッコリーピーナッツ和え",
+      "cost":86,
+      "foodColors" : {
+         "red":0,
+         "green":0.3,
+         "yellow":0.3
+      },
+      "nutrients" : {
+          "energy" : 49,
+          "protein" : 4.0,
+          "lipid" : 1.7,
+          "carbohydrate" : 5.9,
+          "salt" : 0.5,
+          "calcium" : 30,
+          "vegetables" : 83
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"ポテト野菜サラダ",
+      "cost":108,
+      "foodColors" : {
+         "red":0,
+         "green":0.6,
+         "yellow":0.6
+      },
+      "nutrients" : {
+          "energy" : 95,
+          "protein" : 1.5,
+          "lipid" : 5.0,
+          "carbohydrate" : 11.6,
+          "salt" : 0.5,
+          "calcium" : 15,
+          "vegetables" : 52
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"オクラとモロヘイヤの仲良し和え",
+      "cost":86,
+      "foodColors" : {
+         "red":0,
+         "green":0.3,
+         "yellow":0.2
+      },
+      "nutrients" : {
+          "energy" : 38,
+          "protein" : 2.1,
+          "lipid" : 6.7,
+          "carbohydrate" : 8.0,
+          "salt" : 1.2,
+          "calcium" : 74,
+          "vegetables" : 60
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"さっぱり揚げ出し茄子",
+      "cost":86,
+      "foodColors" : {
+         "red":0,
+         "green":0.3,
+         "yellow":1.5
+      },
+      "nutrients" : {
+          "energy" : 144,
+          "protein" : 1.3,
+          "lipid" : 12.2,
+          "carbohydrate" : 7.4,
+          "salt" : 0.8,
+          "calcium" : 16,
+          "vegetables" : 95
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"ほうれん草",
+      "cost":64,
+      "foodColors" : {
+         "red":0,
+         "green":0.2,
+         "yellow":0
+      },
+      "nutrients" : {
+          "energy" : 16,
+          "protein" : 1.6,
+          "lipid" : 0.3,
+          "carbohydrate" : 2.5,
+          "salt" : 0.0,
+          "calcium" : 43,
+          "vegetables" : 62
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"15種類のヘルシーサラダ",
+      "cost":64,
+      "foodColors" : {
+         "red":0.1,
+         "green":0.3,
+         "yellow":0.7
+      },
+      "nutrients" : {
+          "energy" : 83,
+          "protein" : 1.7,
+          "lipid" : 6.4,
+          "carbohydrate" : 4.8,
+          "salt" : 0.6,
+          "calcium" : 29,
+          "vegetables" : 22
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"オクラ巣ごもり玉子",
+      "cost":86,
+      "foodColors" : {
+         "red":1,
+         "green":0.1,
+         "yellow":0.1
+      },
+      "nutrients" : {
+          "energy" : 92,
+          "protein" : 6.7,
+          "lipid" : 5.5,
+          "carbohydrate" : 3.5,
+          "salt" : 0.6,
+          "calcium" : 56,
+          "vegetables" : 33
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"鶏きも煮",
+      "cost":86,
+      "foodColors" : {
+         "red":0.6,
+         "green":0,
+         "yellow":0.2
+      },
+      "nutrients" : {
+          "energy" : 66,
+          "protein" : 8.6,
+          "lipid" : 1.4,
+          "carbohydrate" : 4.6,
+          "salt" : 0.5,
+          "calcium" : 3,
+          "vegetables" : 0
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"スパイシーポテト",
+      "cost":86,
+      "foodColors" : {
+         "red":0,
+         "green":0.5,
+         "yellow":1
+      },
+      "nutrients" : {
+          "energy" : 129,
+          "protein" : 1.4,
+          "lipid" : 5.8,
+          "carbohydrate" : 15.1,
+          "salt" : 0.6,
+          "calcium" : 6,
+          "vegetables" : 0
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"北海道いももち",
+      "cost":86,
+      "foodColors" : {
+         "red":0.1,
+         "green":0.4,
+         "yellow":2.1
+      },
+      "nutrients" : {
+          "energy" : 202,
+          "protein" : 1.4,
+          "lipid" : 8.6,
+          "carbohydrate" : 29.9,
+          "salt" : 0.3,
+          "calcium" : 11,
+          "vegetables" : 0
+      },
+     "layout":"0001"
+   },
+   {
+      "name":"アジフライ",
+      "cost":108,
+      "foodColors" : {
+         "red":0.6,
+         "green":0,
+         "yellow":2.8
+      },
+      "nutrients" : {
+          "energy" : 270,
+          "protein" : 9.4,
+          "lipid" : 18.4,
+          "carbohydrate" : 14.4,
+          "salt" : 0.6,
+          "calcium" : 30,
+          "vegetables" : 0
+      },
+     "layout":"0001"
+   },
+  {
+    "name":"dummy",
+    "cost":0,
+    "foodColors" : {
+      "red":0,
+      "green":0,
+      "yellow":0
+    },
+    "nutrients" : {
+      "energy" : 0,
+      "protein" : 0,
+      "lipid" : 0,
+      "carbohydrate" : 0,
+      "salt" : 0,
+      "calcium" : 0,
+      "vegetables" : 0
+    },
+    "layout":"0001"
+  }
+]
